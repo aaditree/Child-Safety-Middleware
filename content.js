@@ -1,6 +1,6 @@
 console.log("Child Safety Middleware: Scanning ONLY my posts...");
 
-const myUsername = "aksy__taxy";
+const myUsername = "******";
 const startingTrustScore = 5;
 let trustScores = {};
 const alreadyProcessedComments = new Set();
