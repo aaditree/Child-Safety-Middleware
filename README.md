@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Safeguarding Child Influencers on Instagram 🚸</h1>
+  <h1>Safeguarding Child Influencers on Instagram </h1>
 </p>
 
 <p align="center">
@@ -10,7 +10,7 @@
 
 ---
 
-## 📚 Problem Statement
+## Problem Statement
 
 This project is motivated by growing concerns highlighted in recent articles regarding the **online safety of child influencers**.  
 Many of these young users, especially those with **monetized** or **business accounts**, are exposed to toxic, harmful, and inappropriate comments.
@@ -19,7 +19,7 @@ While Instagram offers moderation tools, they are often **reactive** rather than
 
 ---
 
-## 💡 Our Theory of Change
+## Our Theory of Change
 
 We believe that by **designing an additional safety layer** that intelligently moderates harmful content and proactively discourages abusive engagement, we can shift the platform experience for child influencers:
 
@@ -29,11 +29,11 @@ If users and parents demonstrate demand for such a tool, **Instagram and similar
 
 ---
 
-## 🛠️ Our Proposed Solution
+## Our Proposed Solution
 
 We aim to build a **middleware layer** (browser extension) that integrates with Instagram's web interface to:
 
-### ✅ Features:
+### Features:
 
 - **Detect and mask abusive language**, including **obfuscated curse words** (e.g., `f#ck`, `f*ck`, `fcuk`) using **natural language processing** and **fuzzy matching** techniques.
 - **Implement a dynamic trust score system** for accounts that comment or follow monetized child influencer accounts:
@@ -51,7 +51,7 @@ We aim to build a **middleware layer** (browser extension) that integrates with 
 
 ---
 
-## 🎯 End Goal
+## End Goal
 
 Our vision is to create a **protective digital layer** ensuring that **monetized child influencer accounts** can operate in a **safer, more respectful online environment**.
 
