@@ -1,5 +1,5 @@
 <p align="center">
-  <h1>Safeguarding Child Influencers on Instagram </h1>
+  <h1>Safeguarding Child Influencers on Instagram (WIP) </h1>
 </p>
 
 <p align="center">
