@@ -60,6 +60,7 @@ we hope to influence Instagram to **natively integrate these protections**, espe
 
 ---
 
-<p align="center">
-  <b>Let's make the Internet a safer place for young creators! 🚸🌟</b>
-</p>
+## License
+
+This project is licensed under the **MIT License** – see the [LICENSE](LICENSE) file for details.
+
