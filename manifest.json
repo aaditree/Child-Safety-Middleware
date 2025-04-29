@@ -1,0 +1,34 @@
+{
+    "manifest_version": 3,
+    "name": "Child Safety Middleware",
+    "version": "1.0",
+    "description": "Detects abusive comments and manages trust scores on Instagram.",
+    "permissions": [
+      "storage",
+      "activeTab",
+      "scripting"
+    ],
+    "content_scripts": [
+      {
+        "matches": ["*://www.instagram.com/*"],
+        "js": ["content.js"]
+      }
+    ],
+    "background": {
+      "service_worker": "background.js"
+    },
+    "action": {
+      "default_popup": "popup.html",
+      "default_icon": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+      }
+    },
+    "icons": {
+      "16": "icon.png",
+      "48": "icon.png",
+      "128": "icon.png"
+    }
+  }
+  
